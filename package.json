@@ -1,7 +1,7 @@
 {
 	"name": "magic-fingers",
 	"version": "0.1.0",
-	"homepage": "http://fazer1929.github.io/magic-fingers",
+	"homepage": "http://fazer1929.github.io/magic-finger",
 	"private": true,
 	"dependencies": {
 		"@tensorflow-models/handpose": "0.0.6",
