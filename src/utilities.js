@@ -87,7 +87,7 @@ function draw(ctx, j, y) {
 	// ctx.canvas.width = 1280;
 	var x = Math.abs(ctx.canvas.width - j);
 	ctx.lineWidth = 2;
-	ctx.strokeStyle = "#FFf";
+	ctx.strokeStyle = "#ff3f34";
 	ctx.lineCap = "round";
 	ctx.lineTo(x, y);
 	ctx.stroke();

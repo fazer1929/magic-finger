@@ -80,7 +80,7 @@ function Doodle() {
 	};
 	runHandpose();
 	return (
-		<div style={{ backgroundColor: "#282c3" }}>
+		<div style={{ backgroundColor: "#1e272e" }}>
 			<div
 				style={{
 					color: "#fff",
@@ -131,7 +131,7 @@ function Doodle() {
 				width={640}
 				height={480}
 				id="canvas2"
-				backgroundColor="#1e272e "
+				backgroundColor="#1e272e"
 				style={{
 					backgroundColor: "#1e272e",
 					zIndex: 9,
